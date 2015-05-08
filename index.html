@@ -5,7 +5,6 @@
     <title>Acetwitterbot by ace3df</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <script async src="//code.jquery.com/jquery-2.1.4.js" charset="utf-8"></script>
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
@@ -82,7 +81,16 @@
       <h4>Examples</h4>
       <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your waifu is Hiiragi from Hanamaru Youchien <a href="http://t.co/2nBmQ5txa5">pic.twitter.com/2nBmQ5txa5</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/584707835981864960">April 5, 2015</a></blockquote>
       <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your waifu is Konomi Suzue from Triage X <a href="http://t.co/CxRbf2tpC1">pic.twitter.com/CxRbf2tpC1</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/591403683570704384">April 24, 2015</a></blockquote>
-
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Click For More Examples!</button>
+      <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your husbando is Takigawa Yoshino from Zetsuen No Tempest <a href="http://t.co/9oEtjc1vZr">pic.twitter.com/9oEtjc1vZr</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596761561542307840">May 8, 2015</a></blockquote>
+            <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="in" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your waifu is Bernstein Kirara from Gj-bu <a href="http://t.co/Px1S3E958X">pic.twitter.com/Px1S3E958X</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596761935045066753">May 8, 2015</a></blockquote>
+            <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your waifu is Saber from Fate (series) <a href="http://t.co/3RZD5DwPwZ">pic.twitter.com/3RZD5DwPwZ</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596762132814921728">May 8, 2015</a></blockquote>
+          </div>
+        </div>
+      </div>
       <a name="otp"></a>
       <h3>OTP / Yuri OTP / Yaoi OTP (args)</h3>
       <p>Get a random OTP, Yuri OTP or Yaoi OTP!
@@ -122,22 +130,11 @@
       <a name="showlist"></a>
       <h3>Show List</h3>
       <p>Use CTRL + F to find the one you want. Try looking for Japanese and English name.</p>
-      <input type="file" name="file" id="file">
+<iframe src="https://raw.githubusercontent.com/ace3df/AcePictureBot/master/temp/show_list.txt" width="100%" height="400" align="center">
+</iframe>
     </section>
-<script>
-getTxt = function (){
 
-  $.ajax({
-  url:'https://raw.githubusercontent.com/ace3df/AcePictureBot/master/lists/beta_male_list.txt',
-  success: function (data){
-  //parse ur data
-  //you can split into lines using data.split('\n') 
-  //use regex functions to effectivley parse
-  }
-  });
-}
-</script>
-</head><body><button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
+
   </body>
 </html>
 
