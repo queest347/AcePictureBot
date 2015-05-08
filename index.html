@@ -98,7 +98,7 @@
       <p><b>Q: Why am I limited?</b>
       <br>A: Limits are here for many reasons. If you want more "mah waifu" go google their name. MyWaifu is for a small handful of images at a time. Not a whole website worth of images in 10 minutes.
       <br><b>Q: What are the limits?</b>
-      <br>A: I'm not too sure on what to stick with so they're changing around daily for now. As I'm writing this the limit for MyWaifu (which includes MyHusbando), is limited to 8 every 3 hours (* while the waifuwednesday job is running this is limited to 2 for 1 hour, then moved back to 6 every 4).
+      <br>A: I'm not too sure on what to stick with so they're changing around daily for now. As I'm writing this the limit for MyWaifu (which includes MyHusbando), is limited to 6 every 4 hours (* while the waifuwednesday job is running this is limited to 2 for 1 hour, then moved back to 6 every 4).
       <br>WaifuRegister is limited to 5 every 72 hours.
       <br>Other commands such as "waifu" and "imouto" are at a default 10 every 2 hours.
       <br><b>Q: What time and how long is the WaifuWednesday job?</b>
@@ -121,11 +121,22 @@
       <a name="showlist"></a>
       <h3>Show List</h3>
       <p>Use CTRL + F to find the one you want. Try looking for Japanese and English name.</p>
-<iframe src="https://cdn.rawgit.com/ace3df/AceTwitterBot/Pre-Release/temp/show_list.txt" width="100%" height="400" align="center">
-</iframe>
+      <input type="file" name="file" id="file">
     </section>
+<script>
+getTxt = function (){
 
-
+  $.ajax({
+  url:'https://raw.githubusercontent.com/ace3df/AcePictureBot/master/lists/beta_male_list.txt',
+  success: function (data){
+  //parse ur data
+  //you can split into lines using data.split('\n') 
+  //use regex functions to effectivley parse
+  }
+  });
+}
+</script>
+</head><body><button type="button" id="btnGetTxt" onclick="getTxt()">Get Text</button>
   </body>
 </html>
 
