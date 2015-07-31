@@ -1,0 +1,67 @@
+# Set by github - do not change.
+safe: true
+lsi: false
+highlighter: pygments
+
+exclude:
+- bower.json
+- bower_components
+- Gemfile
+- Gemfile.lock
+
+title: AcePictureBot
+description: >
+  AcePictureBot is a open source weeb bot.
+baseurl:
+url: "http://acebot.me"
+twitter_username: ace3df
+github_username:  ace3df
+
+markdown: kramdown
+
+gems:
+- jemoji
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+
+navigation:
+  - pages:
+    - title: Home
+      path: index.html
+    - path: faq.md
+    - path: commands.html
+  - title: Twitter Accounts
+    pages:
+    - title: Ace3DF
+      url: https://twitter.com/Ace3DF
+      icon: code
+    - title: AcePictureBot
+      url: https://twitter.com/AcePictureBot
+      icon: code
+    - title: AceStatusBot
+      url: https://twitter.com/AceStatusBot
+      icon: code
+    - title: AceEcchiBot
+      url: https://twitter.com/AceEcchiBot
+      icon: code
+    - title: AceNSFWBot
+      url: https://twitter.com/AceNSFWBot
+      icon: code
+    - title: AceYuriBot
+      url: https://twitter.com/ACeYuriBot
+      icon: code
+    - title: AceYaoiBot
+      url: https://twitter.com/AceYaoiBot
+      icon: code
+    - title: AceAsianBot
+      url: https://twitter.com/AceAsianBot
+      icon: code
+  - title: Development
+    pages:
+    - title: Source Code
+      url: https://github.com/ace3df/AcePictureBot
+      icon: code
+    - title: Issues
+      url: https://github.com/ace3df/AcePictureBot/issues
+      icon: bug_report

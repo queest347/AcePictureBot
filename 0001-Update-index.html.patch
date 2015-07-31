@@ -1,0 +1,24 @@
+From 5f45c7bcb42bb44cf6bfc2353e83a4283b8bc616 Mon Sep 17 00:00:00 2001
+From: James <ace3df@gmail.com>
+Date: Sun, 28 Jun 2015 19:29:15 +0100
+Subject: [PATCH] Update index.html
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 7dc8884..019beac 100644
+--- a/index.html
++++ b/index.html
+@@ -278,6 +278,7 @@
+       <a name="showlist"></a>
+       <h3>Show List</h3>
+       <p>Use CTRL + F to find the one you want. Try looking for the Japanese, English and short (novel) name.</p>
++      <p>This does <b>NOT</b> reflect who you can and can't use for MyWaifu / MyHusbando. So don't look at this list for that.</p>
+       <iframe src="https://cdn.rawgit.com/ace3df/AcePictureBot/master/temp/show_list.txt" width="100%" height="400" align="center">
+       </iframe>
+     </section>
+-- 
+1.9.5.msysgit.1
+

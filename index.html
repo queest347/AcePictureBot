@@ -1,290 +1,40 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>Acetwitterbot by ace3df</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header" style="padding: 5px;">
-      <h1 class="project-name">Acetwitterbot</h1>
-      <h2 class="project-tagline">A Weeb Twitter.com bot</h2>
-    </section>
+---
+layout: default
+title: AcePictureBot 
+nav_title: Home
+icon: home
+weight: 0
+tall_header: false
+permalink: /
+---
 
-    <section class="main-content">
-      <h3>Introduction</h3>
-      <p>This bot was made to compile the 100+ weeb bots out there into 1 complete open source project.
-      <br>This bot will also tweet a random "safe-for-work" pircute every 15 minutes.
-      <br>Please note: this bot is still <b>in heavy development.</b>
-      <br>Any other problems or questions, feel free to tweet <a href="http://twitter.com/ace3df">@Ace3DF</a></p>
-      
-      <h3>Jump to</h3>
-      <ul>
-        <li><a href="#accounts">Accounts</a></li>
-        <li><a href="#commands">Commands</a></li>
-        <li><a href="#faq">Frequently asked questions</a></li>
-        <li><a href="#showlist">Show list</a></li>
-      </ul>
+<div class="home">
 
-      <a name="accounts"></a>
-      <h3>Accounts</h3>
-      <p><a href="http://twitter.com/AcePictureBot">AcePictureBot</a>  - The main bot, a SFW image every 15 minutes;
-      <br>This account will retweet some (SFW (2D)) images from the other bots.
-      <br><b>ONLY USE ACEPICTUREBOT TO USE COMMANDS!</b>
-      <br><a href="http://twitter.com/AceYuriBot">AceYuriBot</a> - Posts a SFW Yuri image every 15 minutes.
-      <br><a href="http://twitter.com/AceYaoiBot">AceYaoiBot</a> - Posts a SFW Yaoi image every 15 minutes.
-      <br><a href="http://twitter.com/AceEcchiBot">AceEcchiBot</a> - Posts a SFW/NSFW image every 30 minutes.
-      <br>This account is "light hentai". No sex, masturbation, could contain a vag, etc. 
-      <br><a href="http://twitter.com/AceNSFWBot">AceNSFWBot</a> - Posts a NSFW image every 15 minutes.
-      <br>This account is "heavy hentai". Could have sex, masturbation, will probably contain a vag, etc.
-      <br><a href="http://twitter.com/AceAsianBot">AceAsianBot</a> - Posts a SFW 3DPD image every hour.</p>
+  <div>
+    <strong>Introduction:</strong><br>
+    This bot was made to compile the 100+ weeb bots out there into 1 complete open source project.<br>
+    This bot will also tweet a random "safe-for-work" pircute every 15 minutes.<br>
+    <strong>Please note: this bot is still in heavy development.</strong><br>
+    Any other problems or questions, feel free to tweet @Ace3DF<br>
+  </div>
 
-      <a name="commands"></a>
-      <h3>Commands</h3>
-      <p><b>Commands with "[args]" should be read thoroughly!</b>
-      <br>Commands with "(args)" have optional settings and can be used with or without extra stuff</p>
-      <ul>
-          <li><a href="#waifuregister">WaifuRegister [args] / HusbandoRegister [args]</a></li>
-          <li><a href="#mywaifu">MyWaifu / MyHusbando</a></li>
-          <li><a href="#waifu">Waifu / Husbando (args)</a></li>
-          <li><a href="#shipgirl">Shipgirl (args)</a></li>
-          <li><a href="#otp">OTP / Yuri OTP / Yaoi OTP (args)</a></li>
-          <li><a href="#touhou">Touhou (args)</a></li>
-          <li><a href="#vocaloid">Vocaloid (args)</a></li>       
-          <li><a href="#idol">Idol (args)</a></li>
-          <li><a href="#sensei">Sensei (args)</a></li>
-          <li><a href="#tankgirl">Tankgirl</a></li>
-          <li><a href="#witchgirl">Witchgirl</a></li>
-          <li><a href="#imouto">Imouto</a></li>
-          <li><a href="#onii">Onii-chan</a></li>
-          <li><a href="#onee">Onee-chan</a></li>
-          <li><a href="#shota">Shota</a></li>
-          <li><a href="#source">Source</a></li>
-      </ul>
+  <div class="hr"></div>
 
-      <a name="waifuregister"></a>
-      <h3>WaifuRegister [args] / HusbandoRegister [args]</h3>
-      <p>Register a waifu and/or a husbando!
-      <br>Automaticaly recive an image every #WaifuWednesday or manually by using MyWaifu/MyHusbando.
-      <br>Before using this command please read these things:
-      <br><b>1. </b>You MUST follow the bot to register!
-      <br><b>2. </b>Use their full name (If you're not sure check MyAnimeList)!
-      <br><b>3. </b>Don't include any special characters!
-      <br>(ū > uu | ç > c | è > e)
-      <br><b>4. </b>Sometimes single names will have to have their show name in brackets "( )" (See "more examples" first)!
-      <br><b>5. </b>If the name is single and you're not too sure, the bot will automaticaly help you when registering!
-      <br><b>6. </b>You are limited at using the register command - 5 times per 300 hours <a href="#waifulimit">(Click here to see why)</a>!
-      <br><b>7. </b>Seasonal waifus are a bad idea as not much art is out there!
-      <br><b>DO NOT REGISTER: </b>a real person, anime name, your twitter handle, tags (1girl, 1boy, etc.), or a pony.
-
-
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> <a href="https://twitter.com/hashtag/WaifuAnyDay?src=hash">#WaifuAnyDay</a> <a href="http://t.co/VCo2Wjzc2e">pic.twitter.com/VCo2Wjzc2e</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/584372094831583232">April 4, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> <a href="https://twitter.com/hashtag/WaifuAnyDay?src=hash">#WaifuAnyDay</a> <a href="http://t.co/Be2OZE4lxP">pic.twitter.com/Be2OZE4lxP</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/586238129713127424">April 9, 2015</a></blockquote>
-      <center>
-      <a href="Examples/waifuregister.html">
-      <button type="button" class="btn btn-info">Click here for more examples!</button>
-      </a>
-      </center>
-
-      <a name="mywaifu"></a>
-      <h3>MyWaifu / MyHusbando</h3>
-      <p>Recieve an image of your waifu or husbando!<p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> <a href="https://twitter.com/hashtag/WaifuAnyDay?src=hash">#WaifuAnyDay</a> <a href="http://t.co/rwLh28gtiG">pic.twitter.com/rwLh28gtiG</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/569218520317341697">February 21, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> <a href="https://twitter.com/hashtag/HusbandoAnyDay?src=hash">#HusbandoAnyDay</a> <a href="http://t.co/WC4SHvNEiA">pic.twitter.com/WC4SHvNEiA</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/567354184782327808">February 16, 2015</a></blockquote>
-
-      <a name="waifu"></a>
-      <h3>Waifu / Husbando</h3>
-      <p>Find out who your random waifu or husbando is!
-      <br><b>Optional:</b> Add a show name to recive a random waifu/husbando from that show!
-      <br>(Note searching for a show name takes ALL your tweet into account so be care what you tweet with it.)
-      <br><a href="#showlist">(Click here for full show list)</a></p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your waifu is Hiiragi from Hanamaru Youchien <a href="http://t.co/2nBmQ5txa5">pic.twitter.com/2nBmQ5txa5</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/584707835981864960">April 5, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your waifu is Konomi Suzue from Triage X <a href="http://t.co/CxRbf2tpC1">pic.twitter.com/CxRbf2tpC1</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/591403683570704384">April 24, 2015</a></blockquote>
-      <center>
-      <a href="Examples/waifu.html">
-      <button type="button" class="btn btn-info">Click here for more examples!</button>
-      </a>
-      </center>
-
-      <a name="shipgirl"></a>
-      <h3>Shipgirl</h3>
-      <p>Get a random kancolle girl!
-      <br><b>Optional:</b> Add OTP to the tweet and get your kancolle OTP
-      <br>You can also add "aoki" to get a shipgirl from "Aoki Hagane no Arpeggio" 
-      <br>or add "all" to get a shipgirl from either Kancolle or Aoki Hagane!
-      <br>You're also able to add "otp all" to get a Kancolle x Aoki OTP!</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Shipgirl is Mutsu <a href="https://twitter.com/hashtag/kancolle?src=hash">#kancolle</a> <a href="http://t.co/PyCa928RI5">pic.twitter.com/PyCa928RI5</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596794677178855425">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Shipgirl OTP is Ise x Hyuuga <a href="https://twitter.com/hashtag/kancolle?src=hash">#kancolle</a> <a href="http://t.co/bCoqVQ8nhi">pic.twitter.com/bCoqVQ8nhi</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596794858083393538">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Shipgirl is Haruna <a href="http://t.co/sdCzw1DwDd">pic.twitter.com/sdCzw1DwDd</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/600801519198429184">May 19, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="ht" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Shipgirl OTP is Kongou x Kongou <a href="http://t.co/iJTzMKGeoP">pic.twitter.com/iJTzMKGeoP</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/600801691768782848">May 19, 2015</a></blockquote>
-
-      <a name="otp"></a>
-      <h3>OTP / Yuri OTP / Yaoi OTP</h3>
-      <p>Get a random OTP, Yuri OTP or Yaoi OTP!
-      <br><b>Optional:</b> Add a show name to recive an OTP from that show!
-      <br>Please note that image quality of the character images will improve over time.
-      <br>You can also do two shows together: Bleach (x) Naruto (Note the (x) compared to the normal BleachxNaruto)
-      <br><a href="#showlist">(Click here for full show list)</a></p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your OTP is Ahiru and Sousuke Sagara (Princess Tutu / Full Metal Panic!) <a href="http://t.co/uwKD9Vy9ff">pic.twitter.com/uwKD9Vy9ff</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/584377286088069120">April 4, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Yaoi OTP is Akira Agarkar YAMADA and Bobobo-bo BO-BOBO from Tsuritama and Bobobo-bo Bo-bobo <a href="http://t.co/AXB74nnUjk">pic.twitter.com/AXB74nnUjk</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/569669444244545537">February 23, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Yuri OTP is Mei Terumi and Matsumoto Rangiku (Naruto / Bleach) <a href="http://t.co/3wHezyEDiE">pic.twitter.com/3wHezyEDiE</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/591406786953007104">April 24, 2015</a></blockquote>
-      <center>
-      <a href="Examples/otp.html">
-      <button type="button" class="btn btn-info">Click here for more examples!</button>
-      </a>
-      </center>
-
-      <a name="touhou"></a>
-      <h3>Touhou</h3>
-      <p>Get a random touhou!
-      <br><b>Optional:</b> Add OTP to the tweet and get your touhou OTP</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="fr" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Touhou is Tewi Inaba <a href="https://twitter.com/hashtag/touhou?src=hash">#touhou</a> <a href="http://t.co/0Jb2QT7KJl">pic.twitter.com/0Jb2QT7KJl</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796035139244032">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Touhou OTP is Hong Meiling x Reisen Udongein Inaba <a href="https://twitter.com/hashtag/touhou?src=hash">#touhou</a> <a href="http://t.co/IydfmUSR56">pic.twitter.com/IydfmUSR56</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796202877849600">May 8, 2015</a></blockquote>
-     
-      <a name="vocaloid"></a>   
-      <h3>Vocaloid</h3>
-      <p>Get a random vocaloid!
-      <br><b>Optional:</b> Add OTP to the tweet and get your vocaloid OTP</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Vocaloid is Yokune Ruko <a href="https://twitter.com/hashtag/vocaloids?src=hash">#vocaloids</a> <a href="http://t.co/0nkJzoWE6i">pic.twitter.com/0nkJzoWE6i</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596797225679921153">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Vocaloid OTP is Hatsune Miku x Kagamine Rin <a href="https://twitter.com/hashtag/vocaloids?src=hash">#vocaloids</a> <a href="http://t.co/MTJDkZNGLs">pic.twitter.com/MTJDkZNGLs</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596797742254534656">May 8, 2015</a></blockquote>
-
-      <a name="idol"></a>   
-      <h3>Idol</h3>
-      <p>Get a random idol!
-      <br><b>Optional:</b> Add one of these shows to get a person from that series: 
-      <br>Love Live, Idolmaster, akb0048, wake up girls, Idolmaster Cinderella or for a male idol simply add male to the end of the tweet!</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Idol is Totoki Airi from Idolmaster <a href="http://t.co/C1SHa3ZGjO">pic.twitter.com/C1SHa3ZGjO</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596797925839241216">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="in" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Idol is Anju Yuuki from Love Live <a href="https://twitter.com/hashtag/LoveLive?src=hash">#LoveLive</a> <a href="http://t.co/6Y0xqgyInv">pic.twitter.com/6Y0xqgyInv</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596798020487946241">May 8, 2015</a></blockquote>
-
-      <a name="sensei"></a>   
-      <h3>Sensei</h3>
-      <p>Get a random Sensei!
-      <br><b>Optional:</b> Add male or female for that gender only.</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Sensei is Yoshinoya from Hidamari Sketch <a href="http://t.co/OaJlf8rkaV">pic.twitter.com/OaJlf8rkaV</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596798900511633410">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Sensei is Amagasa Kyouichirou from Hyakko <a href="http://t.co/1bqcAvrn3b">pic.twitter.com/1bqcAvrn3b</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596798929599123457">May 8, 2015</a></blockquote>
-
-      <a name="tankgirl"></a>
-      <h3>Tankgirl</h3>
-      <p>Get a random Panzer girl!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Tankgirl is Isobe Noriko <a href="http://t.co/2tdMTuS01U">pic.twitter.com/2tdMTuS01U</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596795344127660032">May 8, 2015</a></blockquote>
-
-      <a name="witchgirl"></a>
-      <h3>Witchgirl</h3>
-      <p>Get a random Strike Witches girl!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="et" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> Your Witchgirl is Eila Ilmatar Juutilainen <a href="http://t.co/v13Ant79gX">pic.twitter.com/v13Ant79gX</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/600802539815182337">May 19, 2015</a></blockquote>
-
-      <a name="imouto"></a>
-      <h3>Imouto</h3>
-      <p>Get a random little sister!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="tl" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Imouto is Tsutsukakushi Tsukiko from Hentai Ouji To Warawanai Neko <a href="http://t.co/wpZyZAXCgN">pic.twitter.com/wpZyZAXCgN</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796421128466433">May 8, 2015</a></blockquote>
-      
-      <a name="onii"></a>      
-      <h3>Onii-chan</h3>
-      <p>Get a random big brother!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="et" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Onii-chan is Yaegashi Taichi from Kokoro Connect <a href="http://t.co/4qnLiSdTKs">pic.twitter.com/4qnLiSdTKs</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796430494339073">May 8, 2015</a></blockquote>
-      
-      <a name="onee"></a>   
-      <h3>Onee-chan</h3>
-      <p>Get a random big sister!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Onee-chan is Yagiri Namie from Durarara!! <a href="http://t.co/nsHBHoDOck">pic.twitter.com/nsHBHoDOck</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796796355096578">May 8, 2015</a></blockquote>
-     
-      <a name="shota"></a>   
-      <h3>Shota</h3>
-      <p>Get a random little boy!
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/MangaLightMe">@MangaLightMe</a> Your Shota is Fuuta from Katekyo Hitman Reborn! <a href="http://t.co/zqWreuUXIi">pic.twitter.com/zqWreuUXIi</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596796813379825664">May 8, 2015</a></blockquote>
-
-      <a name="source"></a>   
-      <h3>Source</h3>
-      <p>Get source on an image!
-      <br>You can also tag in the bot with source to use the bot!</p>
-      <h4>Examples</h4>
-      <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a>  / From: Original <a href="http://t.co/YnT1fBwLdm">http://t.co/YnT1fBwLdm</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596799247686770688">May 8, 2015</a></blockquote>
-      <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/Ace3DF">@Ace3DF</a> <a href="https://twitter.com/AceNSFWBot">@acensfwbot</a>  By All / Based on Iida Nana / From: Rail Wars! <a href="http://t.co/mS60rK8K0P">http://t.co/mS60rK8K0P</a></p>&mdash; Pic Bot (@AcePictureBot) <a href="https://twitter.com/AcePictureBot/status/596799638734315525">May 8, 2015</a></blockquote>
-
-
-      <a name="faq"></a>
-      <h3>Frequently asked questions</h3>
-      <p><b>Q: Why am I limited?</b>
-      <br><b>A: </b>Limits are here for many reasons. I want every command (shipgirl, touhou, etc.) to always include an image. These image sites have their own limits, along side Twitter's API.
-      <br>
-      <br><b>Q: What are the current limits?</b>
-      <br><b>A: </b>Currently these are the limits:-
-      <br>WaifuRegister: 5 Times x 300 Hours
-      <br>MyWaifu: 5 Times x 3 Hours
-      <br>Airing: 5 Times x 10 Hours
-      <br>Every Other Command: 10 Times x 2 Hours
-      <br>You are also limited on using: 5 Commands x 2 Minutes
-      <br>
-      <br><b>Q: Why is MyWaifu limited less on WaifuWednesday?</b>
-      <br><b>A: </b>The limit is lowered to 2 Times x 1 Hour while the "WaifuWednesday" job is running. The job runs at 8am (GMT) and runs for about 4+ hours. This is to limit the chances of errors for everyone. Once the job is finished it will go back to the orginal limits.
-      <a name="waifulimit"></a>
-      <br>
-      <br><b>Q: Why is WaifuRegister time limit so high?</b>
-      <br><b>A: </b>I originally had this idea for people to get images of their waifu quickly. People are sluts and don't stick with one waifu and so they change it every time the limit is over and get any image they want. <b>PLEASE GO TO GOOGLE.COM FOR THAT!</b> If you messed up on registering then you should look at the examples more. I'm usally fair; if I see that my bot didn't help much I will personally remove the limit and help you.
-      <br>
-      <br><b>Q: Why do I have to register to use MyWaifu?</b>
-      <br><b>A: </b> How is the bot suppose to know your waifu? Using "MyWaifu" is NOT the same as "Waifu".
-      <br>
-      <a name="waifuimages"></a>
-      <br><b>Q: "Not enough images were found!"?</b>
-      <br><b>A: </b>People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu.
-      <br>
-      <br><b>Q: I was blocked?!</b>
-      <br><b>A: </b>You don't get blocked. The bot will simply ignore your commands.
-      <br>The bot will ignore users who unfollow and refollow to use WaifuRegister. You can use WaifuRemove / HusbandoRemove to remove your name from the MyWaifu list. You will also get ignored for not following the "DO NOT REGISTER" list.
-      <br>
-      <br><b>Q: Can I not get #WaifuWednesday, but keep my waifu?</b>
-      <br><b>A: </b>Yes! Use WaifuSubscribe / HusbandoSubscribe. It will tell you if you have unsubscribed or resubscribed.
-      <br>
-      <br><b>Q: Can I use another Twitter account for another waifu?</b>
-      <br><b>A: </b>I'd prefer if you didn't. I can't stop you. But if I see 100s of accounts that link to you then I will take action.
-      <br>
-      <br><b>Q: Why "Ace [blank] Bot"?</b>
-      <br><b>A: </b>I couldn't think of any other name.
-      <br>
-      <br><b>Q: How can I help you out?</b>
-      <br><b>A: </b>The bot is open for anyone on github. I'm bad at programming so feel free to fix my mistakes.
-      <br>
-      <br><b>Q: Where do you get the birthday infomation from?</b>
-      <br><b>A: </b><a href="https://docs.google.com/spreadsheets/d/15ZGvdwR8MnPtFQS8Ys9ZrcP5HCkuGswUdyQMBqwRm6Y/">Here</a>
-      <br>
-      <br><b>Q: How do I request a feature?</b>
-      <br><b>A: </b>Feel free to tweet <a href="https://twitter.com/Ace3DF/">@Ace3DF</a>
-      <br>
-      <br><b>Q: I have a problem not listed here!</b>
-      <br><b>A: </b>Feel free to tweet <a href="https://twitter.com/Ace3DF/">@Ace3DF</a>
-
-
-      <a name="showlist"></a>
-      <h3>Show List</h3>
-      <p>Use CTRL + F to find the one you want. Try looking for the Japanese, English and short (novel) name.</p>
-      <p>This does <b>NOT</b> reflect who you can and can't use for MyWaifu / MyHusbando. So don't look at this list for that.</p>
-      <iframe src="https://cdn.rawgit.com/ace3df/AcePictureBot/master/temp/show_list.txt" width="100%" height="400" align="center">
-      </iframe>
-    </section>
-
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  </body>
-</html>
-
+  <div>
+    <strong>Recent Commits:</strong>
+    <br>
+    <p>TODO</p>
+  </div>
+  <p>
+  <div class="hr"></div>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
