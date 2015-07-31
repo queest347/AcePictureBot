@@ -30,6 +30,7 @@ navigation:
     - title: Home
       path: index.html
     - path: faq.md
+    - path: help_lists.md
     - path: commands.html
   - title: Twitter Accounts
     pages:
