@@ -45,7 +45,11 @@ If you think it's none of these feel free to contact me.
 
 ## "Not enough images were found!"? 
 
-People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu. 
+People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu. You can also try spelling their name another way.
+
+## "No images were found!"?
+
+Simple, no images were found. That or you spelt their name wrong.
 
 ## Why "Ace [blank] Bot"? 
 
