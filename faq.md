@@ -18,6 +18,10 @@ I want every command (shipgirl, touhou, etc.) to always include an image. These 
 
 Limits currently change all the time as I am not finished with the bot. Just don't go crazy and you should be fine.
 
+## Why can I only do MyWaifu twice?
+
+After a lot of testing and watching people complain about getting the same image, the science and maths all add up to 2 being the best number to take every waifu/husbando into account with their average user usage to image count.
+
 ## Let me Register a OTP, Idol, etc.
 
 **No**, this bot is for images not text. Your "OTP" will probably have no more than 1 image. 
