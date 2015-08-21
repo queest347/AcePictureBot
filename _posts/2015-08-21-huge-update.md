@@ -5,17 +5,14 @@ date:   2015-08-21
 categories: site
 ---
 
-<h2>HEADER</h2>
 Changelog:
 
 * Users can now register a waifu and a husbando
 
 * The Aoki series was removed from the shipgirl list
-
     * This was never used.
 
 * Tankgirl and Witchgirl was also removed
-
     * Also was really never used.
 
 * OTP now has 3 new overlays
