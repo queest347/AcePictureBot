@@ -13,7 +13,10 @@ __pycache__/
 
 ignore_lists/
 lists/
-
+images/
+count.ini
+palette.png
+sankakucomplex.txt
 config.py
 
 blocked_waifus.txt
