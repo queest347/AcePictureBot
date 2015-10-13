@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-icon: assignment
+icon: receipt
 permalink: /faq/
 ---
 
@@ -14,13 +14,25 @@ Limits are here for many reasons.
 
 I want every command (shipgirl, touhou, etc.) to always include an image. These image sites have their own limits, along side Twitter's API. 
 
+## You're missing a awesome character in the Waifu/Husbando list!
+
+Either add it in a GitHub pull or Tweet the charater at me!
+
 ## What are the current limits? 
 
-Limits currently change all the time as I am not finished with the bot. Just don't go crazy and you should be fine.
+Limits change all the time. Just don't go crazy and you will be fine.
 
 ## Why can I only do MyWaifu twice?
 
-After a lot of testing and watching people complain about getting the same image, the science and maths all add up to 2 being the best number to take every waifu/husbando into account with their average user usage to image count.
+The MyWaifu limit is low as it is to help you not go through all their images in a week.
+
+## No MyWaifu Image
+
+To make sure you don't see the same image twice, if it can't get a new image it will simply fail.
+
+That includes if the website the images are taken from is offline or it failed in some other way.
+
+Try again later.
 
 ## Let me Register a OTP, Idol, etc.
 
@@ -41,19 +53,26 @@ How is the bot suppose to know your waifu? Using "MyWaifu" is NOT the same as "W
 ## None of the commands are working for me!
 
 * Is the bot online?
+* Did you check [@AceStatusbot](http://www.twitter.com/acestatusbot)?
 * Did you register something on the "DO NOT REGISTER" list?
 * Did you unfollow twice while still having a waifu registered?
 * Are you not just limited?
 
 If you think it's none of these feel free to contact me.
 
+## Why do I have to follow to register a waifu?
+
+Keeping your waifu saved is a lot of data.
+
 ## "Not enough images were found!"? 
 
-People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu. You can also try spelling their name another way.
+People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu.
+
+You can also look at the examples again as sometimes the wrong spelling finds a small count of images.
 
 ## "No images were found!"?
 
-Simple, no images were found. That or you spelt their name wrong.
+Simple, no images were found. Read the command examples again as you might have made a mistake.
 
 ## Why "Ace [blank] Bot"? 
 

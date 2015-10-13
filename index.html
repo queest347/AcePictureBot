@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Weeb Twitter Bot 
+title: AcePictureBot
 nav_title: Home
 icon: home
 weight: 0
@@ -9,31 +9,22 @@ permalink: /
 ---
 
 <div class="home">
-
   <div>
-    <strong>Introduction:</strong><br>
-    This bot was made to compile the 100+ weeb bots out there into 1 complete open source project.<br>
-    This bot will also tweet a random "safe-for-work" pircute every 15 minutes.<br>
-    <strong>Please note: this bot is still in heavy development.</strong><br>
+    <h3>Introduction</h3>
+    This collection of bots were made to provide a wide range of image accounts that people can enjoy looking at. <i class="material-icons">insert_emoticon</i><br>
+    <b>AcePictureBot</b> also has over 18 jam packed commands that you can use by simply <a href="http://twitter.com/home?status=%40AcePictureBot%20Who%20is%20my%20waifu%3F">Tweeting</a> to the bot!<br>
+    <a href="/commands">More commands you can tweet to <b>AcePictureBot</b> here!</a><br>
+    <strong>Please note: this bot is still in development.</strong><br>
     Any other problems or questions, feel free to tweet <a href="http://twitter.com/ace3df">@Ace3DF</a><br>
   </div>
-
-  <div class="hr"></div>
-
-  <div>
-    <strong>Recent Commits:</strong>
-    <br>
-    <p>TODO</p>
-  </div>
-  <p>
   <div class="hr"></div>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 2 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>

@@ -29,40 +29,43 @@ navigation:
   - pages:
     - title: Home
       path: index.html
-    - path: faq.md
-    - path: help_lists.md
     - path: commands.html
-  - title: Twitter Accounts
-    pages:
-    - title: Ace3DF
-      url: https://twitter.com/Ace3DF
-      icon: code
-    - title: AcePictureBot
-      url: https://twitter.com/AcePictureBot
-      icon: code
-    - title: AceStatusBot
-      url: https://twitter.com/AceStatusBot
-      icon: code
-    - title: AceEcchiBot
-      url: https://twitter.com/AceEcchiBot
-      icon: code
-    - title: AceNSFWBot
-      url: https://twitter.com/AceNSFWBot
-      icon: code
-    - title: AceYuriBot
-      url: https://twitter.com/ACeYuriBot
-      icon: code
-    - title: AceYaoiBot
-      url: https://twitter.com/AceYaoiBot
-      icon: code
-    - title: AceAsianBot
-      url: https://twitter.com/AceAsianBot
-      icon: code
+    - path: faq.md
   - title: Development
     pages:
+    - path: donate.md
     - title: Source Code
       url: https://github.com/ace3df/AcePictureBot
       icon: code
     - title: Issues
       url: https://github.com/ace3df/AcePictureBot/issues
       icon: bug_report
+  - title: Twitter Accounts
+    pages:
+    - title: Ace (Dev)
+      url: https://twitter.com/Ace3DF
+      icon: perm_identity
+    - title: AcePictureBot
+      url: https://twitter.com/AcePictureBot
+      icon: perm_contact_calendar
+    - title: AceStatusBot
+      url: https://twitter.com/AceStatusBot
+      icon: perm_contact_calendar
+    - title: AceCatgirlBot
+      url: https://twitter.com/AceCatgirlBot
+      icon: perm_contact_calendar
+    - title: AceYuriBot
+      url: https://twitter.com/ACeYuriBot
+      icon: perm_contact_calendar
+    - title: AceYaoiBot
+      url: https://twitter.com/AceYaoiBot
+      icon: perm_contact_calendar
+    - title: AceEcchiBot
+      url: https://twitter.com/AceEcchiBot
+      icon: perm_contact_calendar
+    - title: AceAsianBot
+      url: https://twitter.com/AceAsianBot
+      icon: perm_contact_calendar
+    - title: AceNSFWBot
+      url: https://twitter.com/AceNSFWBot
+      icon: perm_contact_calendar
