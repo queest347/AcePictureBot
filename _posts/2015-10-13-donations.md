@@ -10,9 +10,9 @@ Actually 3 old commands that are now back:
 
 ##### Witchgirl, Tankgirl and Monstergirl
 
-3 New options for Shipgirl and now a easy way to get a Love Live OTP:
+2 New options for Shipgirl and now a easy way to get a Love Live OTP:
 
-##### Shipgirl Aoki, Shipgirl Aoki OTP, Shipgirl All OTP and Idol Love Live OTP.
+##### Shipgirl Aoki, Shipgirl All OTP and Idol Love Live OTP.
 
 I looked more into what is classed as a "monster" and it's pretty loose so I added a lot more girls to the list.
 
