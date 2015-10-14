@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Huge Update"
+title:  "Update"
 date:   2015-08-21
 categories: site
 ---
