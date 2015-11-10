@@ -8,25 +8,41 @@ permalink: /faq/
 * foo
 {:toc}
 
+
+# AcePictureBot
+
+## How can I add to a list?
+
+If you know Git feel free to create a pull request.
+
+Or you can simply fill in this form:
+
+[https://docs.google.com/forms/d/1QS3RxcMXskYlvGleSX4sXvOwnnD3m4dsc_sO9JmeCtM/viewform?c=0&w=1](https://docs.google.com/forms/d/1QS3RxcMXskYlvGleSX4sXvOwnnD3m4dsc_sO9JmeCtM/viewform?c=0&w=1)
+
 ## Why am I limited?
 
-Limits are here for many reasons. 
+Limits are here for many reasons.
 
-I want every command (shipgirl, touhou, etc.) to always include an image. These image sites have their own limits, along side Twitter's API. 
+I want every command (shipgirl, touhou, etc.) to always include an image. These image sites have their own limits.
 
-## You're missing a awesome character in the Waifu/Husbando list!
+Twitter also has a limit on how many tweets you can do every hour.
 
-Either add it in a GitHub pull or Tweet the charater at me!
+## What are the current limits?
 
-## What are the current limits? 
+Limits change all the time.
 
-Limits change all the time. Just don't go crazy and you will be fine.
+You can ready the current set of limits (in hours) here:
+
+[settings.ini](https://github.com/ace3df/AcePictureBot/blob/master/settings.ini)
+
 
 ## Why can I only do MyWaifu twice?
 
 The MyWaifu limit is low as it is to help you not go through all their images in a week.
 
-## No MyWaifu Image
+Not doing this will only increase the chance of seeing the same image.
+
+## No MyWaifu image
 
 To make sure you don't see the same image twice, if it can't get a new image it will simply fail.
 
@@ -34,45 +50,68 @@ That includes if the website the images are taken from is offline or it failed i
 
 Try again later.
 
+If this continues to happen for a long time there is a high chance that your waifu has no more new images.
+
+Wait some seasons or re-register your waifu to get a fresh start.
+
+## No images where found
+
+The person you searched for didn't seem to have any images.
+
+Most of the time "No Images" is from a mistake on your end.
+
+Look at the examples again.
+
+Make sure to spell their name correctly and don't include the series name unless specified.
+
+## Not enough images where found
+
+Simply this. Not enough images where found with the name you said.
+
+This can sometimes happen from spelling their name another way.
+
+If it's common for your character to have more than one name, try the others.
+
+## Why do I have to follow to register
+
+Saving yours and everyone else's data is a lot overtime.
+
+## My account is not genuine
+
+Your Twitter account isn't active enough.
+
+There are too many one-off accounts that only use the command once.
+
+If you are a genuine account and want to register; feel free to contact: <a href="http://twitter.com/ace3df">@Ace3DF</a>
+
 ## Let me Register a OTP, Idol, etc.
 
 **No**, this bot is for images not text. Your "OTP" will probably have no more than 1 image. 
 
-You can regiser a Idol by using WaifuRegister.
+You can register a Idol by using WaifuRegister.
 
 ## Why is the WaifuRegister time limit so high? 
 
-I originally had this idea for people to get images of their waifu quickly. People are sluts and don't stick with one waifu and so they change it every time the limit is over and get any image they want. 
+People are sluts and don't stick with one waifu and so they change it every time the limit is over and get any image they want. 
 
-**PLEASE GO TO GOOGLE.COM FOR THAT!** If you messed up on registering then you should look at the examples more. I'm usally fair; if I see that my bot didn't help much I will personally remove the limit and help you. 
-
-## Why do I have to register to use MyWaifu? 
-
-How is the bot suppose to know your waifu? Using "MyWaifu" is NOT the same as "Waifu". 
+**PLEASE GO TO GOOGLE.COM FOR THAT!** If you messed up on registering then you should look at the examples more.
 
 ## None of the commands are working for me!
 
 * Is the bot online?
+* Are you not just limited?
 * Did you check [@AceStatusbot](http://www.twitter.com/acestatusbot)?
 * Did you register something on the "DO NOT REGISTER" list?
 * Did you unfollow twice while still having a waifu registered?
-* Are you not just limited?
 
-If you think it's none of these feel free to contact me.
+If you think it's none of these feel free to contact: <a href="http://twitter.com/ace3df">@Ace3DF</a>
 
-## Why do I have to follow to register a waifu?
+# Other stuff
 
-Keeping your waifu saved is a lot of data.
+## I have a idea for a bot!
 
-## "Not enough images were found!"? 
-
-People use MyWaifu a lot. No more than 10 images were found on 2+ sites. It is pointless to keep a person that doesn't have images for a image based command. Try again after some seasons or just get a better waifu.
-
-You can also look at the examples again as sometimes the wrong spelling finds a small count of images.
-
-## "No images were found!"?
-
-Simple, no images were found. Read the command examples again as you might have made a mistake.
+Fill in this form:
+[http://goo.gl/forms/Y4ZuL2kn0s](http://goo.gl/forms/Y4ZuL2kn0s)
 
 ## Why "Ace [blank] Bot"? 
 

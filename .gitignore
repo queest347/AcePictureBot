@@ -10,7 +10,7 @@ bower_components
 *.pyc
 __pycache__/
 *.py[cod]
-
+.idea/
 ignore_lists/
 lists/
 images/
