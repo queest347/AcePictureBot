@@ -100,7 +100,7 @@ People are sluts and don't stick with one waifu and so they change it every time
 
 * Is the bot online?
 * Are you not just limited?
-* Did you check [@AceStatusbot](http://www.twitter.com/acestatusbot)?
+* Did you check  <a href="http://twitter.com/AceStatusbot">[at]AceStatusbot</a>?
 * Did you register something on the "DO NOT REGISTER" list?
 * Did you unfollow twice while still having a waifu registered?
 
