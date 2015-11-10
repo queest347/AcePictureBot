@@ -119,9 +119,9 @@ I couldn't think of any other name.
 
 ## How do I request a feature? 
 
-Feel free to tweet <a href="http://twitter.com/ace3df">@Ace3DF</a>
+Feel free to tweet <a href="http://twitter.com/ace3df">[at]Ace3DF</a>
 
 ## I have a problem not listed here! 
 
-Feel free to tweet <a href="http://twitter.com/ace3df">@Ace3DF</a>
+Feel free to tweet <a href="http://twitter.com/ace3df">[at]Ace3DF</a>
 
