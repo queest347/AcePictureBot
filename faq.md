@@ -86,7 +86,9 @@ Your Twitter account isn't active enough.
 
 There are too many one-off accounts that only use the command once.
 
-If you are a genuine account and want to register; feel free to contact: <a href="http://twitter.com/ace3df">@Ace3DF</a>
+This leads to a lot of pointless files and text hanging around.
+
+If you are a genuine account and want to register; feel free to contact: @Ace3DF
 
 ## Let me Register a OTP, Idol, etc.
 
@@ -104,11 +106,11 @@ People are sluts and don't stick with one waifu and so they change it every time
 
 * Is the bot online?
 * Are you not just limited?
-* Did you check  <a href="http://twitter.com/AceStatusbot">[at]AceStatusbot</a>?
+* Did you check @AceStatusbot?
 * Did you register something on the "DO NOT REGISTER" list?
 * Did you unfollow twice while still having a waifu registered?
 
-If you think it's none of these feel free to contact: <a href="http://twitter.com/ace3df">@Ace3DF</a>
+If you think it's none of these feel free to contact: @Ace3DF
 
 # Other stuff
 
@@ -123,9 +125,9 @@ I couldn't think of any other name.
 
 ## How do I request a feature? 
 
-Feel free to tweet <a href="http://twitter.com/ace3df">[at]Ace3DF</a>
+Feel free to tweet @Ace3DF
 
 ## I have a problem not listed here! 
 
-Feel free to tweet <a href="http://twitter.com/ace3df">[at]Ace3DF</a>
+Feel free to tweet @Ace3DF
 

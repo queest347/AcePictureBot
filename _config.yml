@@ -25,6 +25,9 @@ gems:
 - jekyll-redirect-from
 - jekyll-sitemap
 
+jekyll-mentions:
+  base_url: https://twitter.com
+
 navigation:
   - pages:
     - title: Home
