@@ -76,6 +76,10 @@ If it's common for your character to have more than one name, try the others.
 
 Saving yours and everyone else's data is a lot overtime.
 
+## Can I register more than one waifu
+
+No. Don't be a slut. Stick with your one waifu.
+
 ## My account is not genuine
 
 Your Twitter account isn't active enough.
