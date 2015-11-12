@@ -88,7 +88,7 @@ There are too many one-off accounts that only use the command once.
 
 This leads to a lot of pointless files and text hanging around.
 
-If you are a genuine account and want to register; feel free to contact: @Ace3DF
+If you are a genuine account or don't want to use your main account and want to register; feel free to contact: @Ace3DF
 
 ## Let me Register a OTP, Idol, etc.
 
