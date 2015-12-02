@@ -57,6 +57,9 @@ navigation:
     - title: AceCatgirlBot
       url: https://twitter.com/AceCatgirlBot
       icon: perm_contact_calendar
+    - title: AceAnimatedBot
+      url: https://twitter.com/AceAnimatedBot
+      icon: perm_contact_calendar
     - title: AceYuriBot
       url: https://twitter.com/ACeYuriBot
       icon: perm_contact_calendar
