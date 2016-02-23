@@ -6,13 +6,16 @@ permalink: /donate/
 ---
 
 ### Donations
-I will now start to accept donations through [PayPal](https://paypal.me/ace3df) or [Patreon](https://www.patreon.com/ace3df).
+[PayPal](https://paypal.me/ace3df)
 
-Currently I share a server with a friend and that limits my access to the hosting company and more. For the bot I want to make sure that it is on a stable server and is running at all times. 
+[Patreon](https://www.patreon.com/ace3df) (Monthly)
 
-You can make a one time donation through [PayPal](https://paypal.me/ace3df) or if you're committed enough to care about what I do, you can also donate monthly through [Patreon](https://www.patreon.com/ace3df).
+As the bot grows and spreads out (Twitter, Discord, IRC) it becomes more demanding to serve on each service in real-time.
 
-Donation funding will also support additional Twitter Bot projects, such as a simple way to create and host your own.
+For the bot I want to make sure that it is on a stable server and is running at all times without a bump.
 
-Thank for for your support, feel free to tweet <a href="http://twitter.com/ace3df">@Ace3DF</a>
+You can make a one time donation through [PayPal](https://paypal.me/ace3df) or if you're committed enough, you can also donate monthly through [Patreon](https://www.patreon.com/ace3df) and receive special roles on each project!
 
+Donation funding will also support additional projects, such as a simple way to create and host your own Twitter bot!
+
+Thank for your support, feel free to tweet @Ace3DF
