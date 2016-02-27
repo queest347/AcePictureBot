@@ -9,7 +9,12 @@ permalink: /commands_2/
 
 Command | Description | Example(s)
 ------------ | ------------- | -------------
-WaifuRegister  | Register your waifu or husbando!
+WaifuRegister
 
- mew fakspofk asopfkas opfkasop fkasopf kasop kfasopk fopas kfopask fopas kfopask fopask gfopask gopask gopask gopak pogask opgas kopgkas opg kaspogk asopg kpoas kgopask gpoask gpoask gopas kgopsa jgopasj gpioashjg iopasj opgajs opgasj pogj aspog jaspog jaspogj sdpgjsdpg jsdpogj sdopgj sdopg jsdp | Content from cell 2
+HusbandoRegister  | Register your waifu or husbando!
+
+* You will need to follow the bot.
+* Use their full name.
+* Seasonal waifus are a bad idea as not much art is out there.
+* If you're not sure on their name check out the (Waifu)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Waifu%20List.txt] or (Husbando)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Husbando%20List.txt] list.  | Content from cell 2
 Content in the first column | Content in the second column
