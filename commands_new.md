@@ -12,9 +12,5 @@ Command | Description | Example(s)
 WaifuRegister
 
 HusbandoRegister  | Register your waifu or husbando!
-
-* You will need to follow the bot.
-* Use their full name.
-* Seasonal waifus are a bad idea as not much art is out there.
-* If you're not sure on their name check out the (Waifu)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Waifu%20List.txt] or (Husbando)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Husbando%20List.txt] list.  | Content from cell 2
+<ul><li>You will need to follow the bot.</li><li>Use their full name.</li><li>A seasonal Waifu are a bad idea as not much art is out there.</li><li>If you're not sure on their name check out the (Waifu)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Waifu%20List.txt] or (Husbando)[https://github.com/ace3df/AcePictureBot/blob/master/lists/Husbando%20List.txt] list.</li></ul>| Content from cell 2
 Content in the first column | Content in the second column
