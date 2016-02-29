@@ -3,6 +3,7 @@ layout: page
 title: Donate
 icon: attach_money
 permalink: /donate/
+viewport_width: 675
 ---
 
 ### Donations
