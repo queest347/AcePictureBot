@@ -11,7 +11,7 @@ viewport_width: 675
 
 [Patreon](https://www.patreon.com/ace3df) (Monthly)
 
-[b]Please only donate if you want to support the commands part of the bots and not for the images posted.[/b]
+**Please only donate if you want to support the commands part of the bots and not for the images posted.**
 
 As the bot grows and spreads out (Twitter, Discord, IRC) it becomes more demanding to serve on each service in real-time.
 
