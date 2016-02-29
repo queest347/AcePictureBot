@@ -21,4 +21,4 @@ I want to make sure that it is on a stable server and is running at all times wi
 
 You can make a one time donation through [PayPal](https://paypal.me/ace3df) or if you're committed enough you can also donate monthly through [Patreon](https://www.patreon.com/ace3df) and receive special roles and stuff on each project!
 
-Thank for your support, feel free to tweet @Ace3DF
+Thanks for your support, feel free to tweet @Ace3DF
