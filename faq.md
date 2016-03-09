@@ -151,7 +151,7 @@ If your code is invalid simply message the bot on Discord again.
 
 ### Connecting on Twitch IRC
 
-Head on over to [mywaifu.acebot.xyz](mywaifu.acebot.xyz) and click "Connect your Twitter Waifu to Twitch!"
+Head on over to [mywaifu.acebot.xyz](http://mywaifu.acebot.xyz) and click "Connect your Twitter Waifu to Twitch!"
 
 You will sign into Twitter and then your Twitch.
 
