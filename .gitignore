@@ -13,6 +13,8 @@ bower_components
 *.ini
 *.pyc
 __pycache__/
+is_busy.txt
+last_crash_file.txt
 *.py
 .idea/
 ignore_lists/

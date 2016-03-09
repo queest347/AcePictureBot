@@ -88,17 +88,17 @@ There are too many one-off accounts that only use the command once.
 
 This leads to a lot of pointless files and text hanging around.
 
-If you are a genuine account or don't want to use your main account and want to register; feel free to contact: @Ace3DF
+If you are a genuine account or don't want to use your main account and want to register; feel free to contact: @AceStatusbot
 
 ## Let me Register a OTP, Idol, etc.
 
-**No**, this bot is for images not text. Your "OTP" will probably have no more than 1 image. 
+**No**, this bot is for images not text. Your "OTP" will probably have no more than 1 image.
 
 You can register a Idol by using WaifuRegister.
 
-## Why is the WaifuRegister time limit so high? 
+## Why is the WaifuRegister time limit so high?
 
-People are sluts and don't stick with one waifu and so they change it every time the limit is over and get any image they want. 
+People are sluts and don't stick with one waifu and so they change it every time the limit is over and get any image they want.
 
 **PLEASE GO TO GOOGLE.COM FOR THAT!** If you messed up on registering then you should look at the examples more.
 
@@ -110,7 +110,7 @@ People are sluts and don't stick with one waifu and so they change it every time
 * Did you register something on the "DO NOT REGISTER" list?
 * Did you unfollow twice while still having a waifu registered?
 
-If you think it's none of these feel free to contact: @Ace3DF
+If you think it's none of these feel free to contact: @AceStatusbot
 
 # Other stuff
 
@@ -119,15 +119,45 @@ If you think it's none of these feel free to contact: @Ace3DF
 Fill in this form:
 [http://goo.gl/forms/Y4ZuL2kn0s](http://goo.gl/forms/Y4ZuL2kn0s)
 
-## Why "Ace [blank] Bot"? 
+## Why "Ace [blank] Bot"?
 
-I couldn't think of any other name. 
+I couldn't think of any other name.
 
-## How do I request a feature? 
+## How do I request a feature?
 
-Feel free to tweet @Ace3DF
+Feel free to tweet @AceStatusbot
 
-## I have a problem not listed here! 
+## I have a problem not listed here!
 
-Feel free to tweet @Ace3DF
+Feel free to tweet @AceStatusbot
 
+## MyWaifu for Discord and Twitch Chat
+
+First you will have to register your waifu (or husbando) on Twitter.
+
+Follow the [first command listed here](ace3df.github.io/AcePictureBot/commands/).
+
+### Connecting on Discord
+
+Private message the bot on Discord with MyWaifu (or MyHusbando) - the bot will reply with a 5 digit code.
+
+Tweet to @AcePictureBot using the command "ConnectDiscord" followed by your 5 digit code.
+
+Example: @AcePictureBot ConnectDiscord 12345
+
+You will get a reply telling you it has connected.
+
+If your code is invalid simply message the bot on Discord again.
+
+### Connecting on Twitch IRC
+
+Head on over to [URL HERE](http://google.com) and click "Connect your Twitter Waifu to Twitch!"
+
+You will sign into Twitter and then your Twitch.
+
+You can disconnect both apps after you have logged in.
+
+
+### Troubleshooting
+
+Tweet your problems to [@AceStatusBot](http://twitter.com/acestatusbot).
