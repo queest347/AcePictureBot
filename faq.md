@@ -139,11 +139,11 @@ Follow the [first command listed here](ace3df.github.io/AcePictureBot/commands/)
 
 ### Connecting on Discord
 
-Private message the bot on Discord with MyWaifu (or MyHusbando) - the bot will reply with a 5 digit code.
+Private message the bot on Discord with MyWaifu (or MyHusbando) - the bot will reply with a code.
 
-Tweet to @AcePictureBot using the command "ConnectDiscord" followed by your 5 digit code.
+Tweet to @AcePictureBot using the command "DiscordConnect" followed by your code.
 
-Example: @AcePictureBot ConnectDiscord 12345
+Example: @AcePictureBot DiscordConnect a2bc3f
 
 You will get a reply telling you it has connected.
 
@@ -151,7 +151,7 @@ If your code is invalid simply message the bot on Discord again.
 
 ### Connecting on Twitch IRC
 
-Head on over to [URL HERE](http://google.com) and click "Connect your Twitter Waifu to Twitch!"
+Head on over to [mywaifu.acebot.xyz](mywaifu.acebot.xyz) and click "Connect your Twitter Waifu to Twitch!"
 
 You will sign into Twitter and then your Twitch.
 
