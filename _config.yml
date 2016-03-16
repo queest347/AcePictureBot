@@ -31,7 +31,7 @@ jekyll-mentions:
 navigation:
   - pages:
     - title: Home
-      path: index.html
+      path: index.md
     - path: commands.html
     - path: faq.md
   - title: Development
