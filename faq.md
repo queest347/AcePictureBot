@@ -15,7 +15,7 @@ permalink: /faq/
 
 If you know Git feel free to create a pull request.
 
-[You can simply fill in this form!](https://docs.google.com/forms/d/1QS3RxcMXskYlvGleSX4sXvOwnnD3m4dsc_sO9JmeCtM/viewform?c=0&w=1)
+[Or you can simply fill in this form!](https://docs.google.com/forms/d/1QS3RxcMXskYlvGleSX4sXvOwnnD3m4dsc_sO9JmeCtM/viewform?c=0&w=1)
 
 ### Why am I limited?
 
