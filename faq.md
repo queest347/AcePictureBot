@@ -60,7 +60,7 @@ The bot couldn't find any images from the name you used.
 
 Most of the time this can be that you spelt their name wrong or in another way compared to what the websites use.
 
-You can try to read a list of already used names here: [Waifu](https://github.com/ace3df/AcePictureBot/blob/master/lists/Waifu%20List.txt) | [Husbando](https://github.com/ace3df/AcePictureBot/blob/master/lists/Husbando%20List.txt)
+You can try to read a list of already used names here: [Waifu](https://github.com/ace3df/AcePictureBot/blob/master/lists/Waifu%20List.txt) - [Husbando](https://github.com/ace3df/AcePictureBot/blob/master/lists/Husbando%20List.txt)
 
 Make sure to spell their name correctly and don't include the series name unless specified.
 

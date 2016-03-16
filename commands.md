@@ -30,3 +30,4 @@ Witchgirl|Get a random Witchgirl (Strike Witches)!|Witchgirl
 Source|Find out the artist, charaters and series the image is based off!<br>You can also tag the bot in any tweet that includes a image!|Source<br>@AceEcchiBot Source @AcePictureBot<br>What is the anime?
 Airing|A quick way to find out when said anime's next episode is airing!<br>If nothing was found it will not responde to you.|Airing Gintama<br>Airing One Piece
 !Level|Using commands increases your level, find out what it is!<br>Note the "!" at the start|!Level
+DiscordJoin|Post your Discord Invite URL and the bot will join it!|DiscordJoin URLHERE
