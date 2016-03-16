@@ -2,7 +2,7 @@
 layout: page
 title: Commands
 icon: polymer
-permalink: /commands_2/
+permalink: /commands/
 ---
 
 #### These commands work on Twitter, Discord and Twitch Chat
