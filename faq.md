@@ -9,7 +9,7 @@ permalink: /faq/
 {:toc}
 
 
-# AcePictureBot
+## AcePictureBot
 
 ### How can I add to one of the command's lists?
 
@@ -116,7 +116,7 @@ If you messed up on registering then you should look at the examples more.
 
 If you think it's none of these feel free to contact: @AceStatusbot
 
-# Other stuff
+## Other stuff
 
 ### I have an idea for a bot!
 
@@ -135,7 +135,7 @@ Feel free to tweet @AceStatusbot
 
 Feel free to tweet @AceStatusbot
 
-# Get AcePictureBot in Discord and Twitch Chat
+## Get AcePictureBot in Discord and Twitch Chat
 
 ### Discord
 
@@ -153,7 +153,7 @@ Simply type "!apb join" in the [AcePictureBot Twitch Chat](http://twitch.tv/acep
 
 You can use "!apb help" in both places for help.
 
-# MyWaifu for Discord and Twitch Chat
+## MyWaifu for Discord and Twitch Chat
 
 First you will have to register your waifu (or husbando) on Twitter.
 
@@ -180,6 +180,6 @@ You will sign into Twitter and then your Twitch.
 You can disconnect both apps after you have logged in.
 
 
-# Troubleshooting
+## Troubleshooting
 
 Tweet your problems to [@AceStatusBot](http://twitter.com/acestatusbot).

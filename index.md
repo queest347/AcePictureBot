@@ -6,7 +6,7 @@ icon: home
 permalink: /
 ---
 
-## Introduction
+# Introduction
 
 This collection of bots were made to provide a wide range of image accounts that people can enjoy following and looking at.
 
@@ -16,7 +16,9 @@ The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18
 
 [For help read Frequently Asked Questions!](/AcePictureBot/faq)
 
-### The Bots
+---
+
+## The Bots
 
 - [@AcePictureBot](https://twitter.com/AcePictureBot)
   - This bot will replys to commands.
