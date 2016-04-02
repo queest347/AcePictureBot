@@ -12,6 +12,7 @@ bower_components
 *.bat
 *.ini
 *.pyc
+users/
 __pycache__/
 is_busy.txt
 last_crash_file.txt
