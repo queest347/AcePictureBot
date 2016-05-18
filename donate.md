@@ -7,7 +7,7 @@ viewport_width: 675
 ---
 
 ### Donations
-[PayPal](https://paypal.me/ace3df)
+[PayPal](https://streamtip.com/t/ace3df)
 
 [Patreon](https://www.patreon.com/ace3df) (Monthly)
 
@@ -19,6 +19,6 @@ AcePictureBot has been [getting updated basically daily](https://github.com/ace3
 
 I want to make sure that it is on a stable server and is running at all times without a bump.
 
-You can make a one time donation through [PayPal](https://paypal.me/ace3df) or if you're committed enough you can also donate monthly through [Patreon](https://www.patreon.com/ace3df) and receive special roles and stuff on each project!
+You can make a one time donation through [PayPal](https://streamtip.com/t/ace3df) or if you're committed enough you can also donate monthly through [Patreon](https://www.patreon.com/ace3df) and receive special roles and stuff on each project!
 
 Thanks for your support, feel free to tweet @Ace3DF
