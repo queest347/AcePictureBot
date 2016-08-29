@@ -45,7 +45,7 @@ navigation:
       icon: bug_report
   - title: Twitter Accounts
     pages:
-    - title: Ace (Dev)
+    - title: Ace3DF (Developer)
       url: https://twitter.com/Ace3DF
       icon: perm_identity
     - title: AcePictureBot
@@ -66,15 +66,6 @@ navigation:
     - title: AceYaoiBot
       url: https://twitter.com/AceYaoiBot
       icon: perm_contact_calendar
-    - title: AceEcchiBot
-      url: https://twitter.com/AceEcchiBot
-      icon: perm_contact_calendar
     - title: AceAsianBot
       url: https://twitter.com/AceAsianBot
-      icon: perm_contact_calendar
-    - title: AceNSFWBot
-      url: https://twitter.com/AceNSFWBot
-      icon: perm_contact_calendar
-    - title: AceYuriNSFWBot
-      url: https://twitter.com/AceYuriNSFWBot
       icon: perm_contact_calendar
