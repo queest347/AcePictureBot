@@ -18,6 +18,7 @@ The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18
 
 The Ace Bot Project is maintain by [@Ace3DF](https://twitter.com/ace3df).
 
+Tweet your problems [@AceStatusBot](https://twitter.com/acestatusbot).
 
 ---
 
