@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 
-This collection of bots were made to provide a wide range of image accounts that people can enjoy following and looking at.
+The Ace Bot Project is a collection of bots were made to provide a wide range of accounts that a large range people can enjoy following and looking at - not only limited to Twitter.
 
 The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18 jam packed commands that can be used on [Twitter](https://twitter.com/intent/tweet?text=Who%20is%20my%20waifu%3F%20%40AcePictureBot), [Discord](https://twitter.com/AcePictureBot/status/709779531826073600) or in your [Twitch Chat](https://twitter.com/AcePictureBot/status/702887907472883713)!
 
@@ -16,13 +16,16 @@ The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18
 
 [For help read Frequently Asked Questions!](/AcePictureBot/faq)
 
+The Ace Bot Project is maintain by [@Ace3DF](https://twitter.com/ace3df).
+
+
 ---
 
 ## The Bots
 
 - [@AcePictureBot](https://twitter.com/AcePictureBot)
   - This bot will replys to commands.
-  - Posts a SFW image every 15 minutes.
+  - Posts a SFW image every 30 minutes.
 - [@AceStatusBot](https://twitter.com/AceStatusBot)
   - Tweets about updates and problems with each bot.
 - [@AceYuriBot](https://twitter.com/AceYuriBot)
@@ -33,11 +36,5 @@ The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18
   - Posts a SFW (+ very little NSFW) image every 30 minutes.
 - [@AceAnimatedBot](https://twitter.com/AceAnimatedBot)
   - Posts a SFW Animated gif or video every 30 minutes.
-- [@AceEcchiBot](https://twitter.com/AceEcchiBot)
-  - Posts a NSFW image every 15 minutes.
-- [@AceNSFWBot](https://twitter.com/AceNSFWBot)
-  - Posts a Extramly-NSFW image every 15 minutes.
-- [@AceYuriNSFWBot](https://twitter.com/AceYuriNSFWBot)
-  - Posts a NSFW Yuri image every 30 minutes.
 - [@AceAsianBot](https://twitter.com/AceAsianBot)
   - Posts a SFW (real girl) image every hour.
