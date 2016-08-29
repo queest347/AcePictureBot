@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 
-The Ace Bot Project is a collection of bots were made to provide a wide range of accounts that a large range people can enjoy following and looking at - not only limited to Twitter.
+The Ace Bot Project is a collection of bots that were made to provide a wide range of fun and images that a large range people can enjoy following and looking at - not only limited to Twitter.
 
 The main bot - [@AcePictureBot](https://twitter.com/AcePictureBot) - has over 18 jam packed commands that can be used on [Twitter](https://twitter.com/intent/tweet?text=Who%20is%20my%20waifu%3F%20%40AcePictureBot), [Discord](https://twitter.com/AcePictureBot/status/709779531826073600) or in your [Twitch Chat](https://twitter.com/AcePictureBot/status/702887907472883713)!
 
