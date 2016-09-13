@@ -28,3 +28,7 @@ blocked_waifus.txt
 blocked_users.txt
 *todo
 *-*.txt
+Configs/
+Images/
+Scripts/
+tools/
