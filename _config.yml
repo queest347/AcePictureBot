@@ -36,13 +36,13 @@ navigation:
     - path: faq.md
   - title: Development
     pages:
-    - path: donate.md
     - title: Source Code
       url: https://github.com/ace3df/AcePictureBot
       icon: code
     - title: Issues
       url: https://github.com/ace3df/AcePictureBot/issues
       icon: bug_report
+    - path: donate.md
   - title: Twitter Accounts
     pages:
     - title: Ace3DF (Developer)

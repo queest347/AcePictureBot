@@ -114,25 +114,6 @@ If you messed up on registering then you should look at the examples more.
 
 If you are sure it's none of these feel free to contact: @AceStatusbot
 
-## Other Stuff
-
-### I have an idea for a bot!
-
-Fill in this form:
-[http://goo.gl/forms/Y4ZuL2kn0s](http://goo.gl/forms/Y4ZuL2kn0s)
-
-### Why "Ace [blank] Bot"?
-
-I couldn't think of any other name.
-
-### How do I request a feature?
-
-Feel free to tweet @AceStatusbot
-
-### I have a problem not listed here!
-
-Feel free to tweet @AceStatusbot
-
 # AcePictureBot on other platforms
 
 ## Discord
@@ -164,7 +145,26 @@ If the bot is online simply type "!apb join" and the bot will join your Twitch c
 
 TODO
 
+## Other Stuff
 
-# Troubleshooting
+### I have an idea for a bot!
+
+Fill in this form:
+[http://goo.gl/forms/Y4ZuL2kn0s](http://goo.gl/forms/Y4ZuL2kn0s)
+
+### Why "Ace [blank] Bot"?
+
+I couldn't think of any other name.
+
+### How do I request a feature?
+
+Feel free to tweet @AceStatusbot
+
+### I have a problem not listed here!
+
+Feel free to tweet @AceStatusbot
+
+## Troubleshooting
 
 Tweet your problems to [@AceStatusBot](http://twitter.com/acestatusbot).
+
