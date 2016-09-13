@@ -5,7 +5,7 @@ icon: polymer
 permalink: /commands/
 ---
 
-#### Most of these commands work on [Twitter](), [Discord](), [Reddit](), [Facebook]() and [Twitch chat]()!
+#### Most of these commands work on [Twitter](https://twitter.com/AcePictureBot), [Discord](https://discordapp.com/oauth2/authorize?permissions=0&client_id=170367887393947648&scope=bot), [Reddit](), [Facebook]() and [Twitch chat]()!
 
 ##### [For Patreon only commands / features check out this page here.](http://ace3df.github.io/AcePictureBot/patreon/)
 

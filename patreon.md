@@ -5,9 +5,11 @@ icon: polymer
 permalink: /patreon/
 ---
 
-####### These are Patreon only ($5+) features only.
+###### These are Patreon only ($5+) features only.
 
 #### [Click here to become a Patreon!](https://patreon.com/ace3df)
+
+As a Patreon supporter you don't have per command limits like everyone else!
 
 Command | Description | Example(s) @AcePictureBot
 ------- | ----------- | ----------
@@ -16,6 +18,6 @@ PicTag|Search a imageboard site on the fly!<br>You can also add a number on the 
 Harem|Find out who your 3+ lovers are!<br>You can also do two shows together:<br>Bleach (x) Naruto<br>Note the "(x)" compared to the normal Bleach x Naruto you would see.<br>**Note** - Searching for a series takes all your text into account; keep that in mind. If the series you used doesn't have more than 2 people for that gender in said series this will not work.|Harem<br>Yuri Harem<br>Yaoi Harem<br>Harem Bleach<br>Harem Bleach(x)Naruto<br>Yuri Harem Bleach(x)K-On!(x)Naruto(x)Clannad(x)Idolmaster
 Yandere|Find out who your yandere is!<br>**Optional:**<br>Add "male" or "female" for just that gender!|Yandere<br>Yandere Female
 Tsundere|Find out who your tsundere is!<br>**Optional:**<br>Add "male" or "female" for just that gender!|Tsundere<br>Tsundere Female
-!source|Be able to use the source command anywhere!|!source <IMAGE ATTACHMENT HERE><br>!source imgur.com/imagelink
-!airing|Be able to use the !airing command anywhere!|!airing One Piece
+!source|Be able to use the source command anywhere!|!source DISCORD_IMAGE_ATTACHMENT_HERE<br>!source http://example.com/image.jpg
+!airing|Be able to use the !airing command anywhere!|!airing Saiki Kusuo no Ψ Nan<br>!airing Youkai Watch
 
