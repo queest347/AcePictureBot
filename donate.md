@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donate
+title: Patreon
 icon: attach_money
 permalink: /donate/
 viewport_width: 675

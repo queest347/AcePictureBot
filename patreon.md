@@ -9,6 +9,8 @@ permalink: /patreon/
 
 #### [Click here to become a Patreon!](https://patreon.com/ace3df)
 
+[Free for everyone until the 18th. Read the Patreon post here.](https://www.patreon.com/posts/patreon-free-6760862)
+
 As a Patreon supporter you don't have per command limits like everyone else!
 
 Command | Description | Example(s) @AcePictureBot
