@@ -5,7 +5,7 @@ icon: polymer
 permalink: /patreon/
 ---
 
-###### These are Patreon only ($5+) features only.
+###### These are for Patreon ($5+) supporters only.
 
 #### [Click here to become a Patreon!](https://patreon.com/ace3df)
 
