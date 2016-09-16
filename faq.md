@@ -147,6 +147,16 @@ TODO
 
 ## Other Stuff
 
+#### Why Patreon?
+
+Some commands take a lot of time to process (i.e. it's connecting to a website). This holds up other users so I limit these.
+
+Some other commands are simply Patreon only as a thank you.
+
+#### b- but you didn't do any of the art!!!!
+
+Please don't donate if you don't use commands.
+
 #### I have an idea for a bot!
 
 Fill in this form:
