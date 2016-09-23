@@ -32,3 +32,4 @@ Configs/
 Images/
 Scripts/
 tools/
+*.py
