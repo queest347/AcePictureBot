@@ -5,6 +5,8 @@ icon: receipt
 permalink: /faq/
 ---
 
+[For Patreon FaQ click here.](http://ace3df.github.io/AcePictureBot/faq_patreon/)
+
 * foo
 {:toc}
 
@@ -91,7 +93,7 @@ This leads to a lot of pointless files and text hanging around.
 
 #### Let me Register my OTP, Idol, etc.
 
-**No**, this bot is for images not text. Your "OTP" will probably have no more than 1 image.
+Patreon ($10+) can use IdolRegister and OTPRegister [although it's limited on who you can register.]()
 
 You can register any Idol by using WaifuRegister.
 
@@ -112,7 +114,7 @@ If you messed up on registering then you should look at the examples more.
 * Did you register something on that would be on the "Don't register" list?
 * Did you unfollow twice while still having a waifu registered?
 
-If you are sure it's none of these feel free to contact: @AceStatusbot
+If you are sure (and i mean sure) it's none of these feel free to contact: @AceStatusbot
 
 # AcePictureBot on other platforms
 
@@ -168,11 +170,11 @@ I couldn't think of any other name.
 
 #### How do I request a feature?
 
-Feel free to tweet @AceStatusbot
+Feel free to tweet [@AceStatusBot](http://twitter.com/acestatusbot).
 
 #### I have a problem not listed here!
 
-Feel free to tweet @AceStatusbot
+Feel free to tweet [@AceStatusBot](http://twitter.com/acestatusbot).
 
 ## Troubleshooting
 
