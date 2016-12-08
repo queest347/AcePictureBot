@@ -12,6 +12,8 @@ bower_components
 *.bat
 *.ini
 *.pyc
+ffmpeg.exe
+*.dll
 users/
 __pycache__/
 is_busy.txt

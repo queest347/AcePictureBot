@@ -32,5 +32,5 @@ Tankgirl|Get a random Tankgirt (Girls und Panzer)!|Tankgirl
 Witchgirl|Get a random Witchgirl (Strike Witches)!|Witchgirl
 MyWaifu Data<br>MyHusbando Data|Get infomation about your registered waifus.|MyWaifu Data<br>MyHusbando Data
 Source|Find out the artist, charaters and series the image is based off!<br>You can also tag the bot in any tweet that includes a image!<br>**Limited:**<br>You can only use this command on Twitter.<br>Patreon Supporters can use it anywhere<br>(this becomes !source out side of twitter).|Source<br>@AceYuriBot Source @AcePictureBot<br>What is the anime?
-!Airing|A quick way to find out when said anime's next episode is airing!<br>If nothing was found it will not responde to you.<br>**Limited:**<br>You can only use this command on Twitter.<br>Patreon Supporters can use it anywhere.|!Airing Gintama<br>!Airing One Piece
+!Airing|A quick way to find out when said anime's next episode is airing!<br>If nothing was found it will not responde to you.<br>**Limited:**<br>You can only use this command on Twitter.|!Airing Gintama<br>!Airing One Piece
 
